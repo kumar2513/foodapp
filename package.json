@@ -1,0 +1,25 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "This is a food app by King Aj",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar2513/foodapp.git"
+  },
+  "keywords": [
+    "reactfood"
+  ],
+  "author": "kingaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar2513/foodapp/issues"
+  },
+  "homepage": "https://github.com/kumar2513/foodapp#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
